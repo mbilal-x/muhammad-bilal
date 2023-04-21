@@ -11,8 +11,8 @@
 
 ### Screenshot
 
-![](./images/screenshot_desktop.PNG)
-![](./images/screenshot_mobile.PNG)
+![](./assets/img/screenshot_desktop.PNG)
+![](./assets/img/screenshot_mobile.PNG)
 
 ### Links
 

@@ -4,10 +4,9 @@
 
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
   - [Built with](#built-with)
 
-
+  
 ### Screenshot
 
 ![](./assets/img/screenshot_desktop.png)
@@ -18,7 +17,6 @@
 - Solution URL: [Solution](https://github.com/mbilal-x/muhammad-bilal)
 - Live Site URL: [Live Site](https://mbilal-x.github.io/muhammad-bilal/)
 
-## My process
 
 ### Built with
 
